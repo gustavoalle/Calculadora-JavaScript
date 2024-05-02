@@ -2,7 +2,7 @@
 
 Este README fornece informações sobre o projeto "calculadora Básica JS", que foi criado colocando em prática estudos de manipulação do DOM.
 
-![](https://photos.app.goo.gl/V3gvVRGdwYe3CuK16)
+<img alt="calc" src="https://photos.app.goo.gl/2mqEYwSUujeBDjev6">
 
 ## Como Usar
 
