@@ -1,6 +1,7 @@
 # Calculadora Básica JS
 
 Este README fornece informações sobre o projeto "calculadora Básica JS", 
+
 que foi criado colocando em prática estudos de manipulação do DOM em Javascript.
 
 ![menor](https://github.com/gustavoalle/Calculadora-JavaScript/assets/98069636/8e22118d-4295-4a5e-aebe-a066e53f34a5)
