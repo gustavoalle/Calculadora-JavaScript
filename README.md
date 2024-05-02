@@ -2,6 +2,8 @@
 
 Este README fornece informações sobre o projeto "calculadora Básica JS", que foi criado colocando em prática estudos de manipulação do DOM.
 
+![](https://photos.app.goo.gl/V3gvVRGdwYe3CuK16)
+
 ## Como Usar
 
 Você poderá utilizar a calculadora diretamente em seu navegador, acessando: https://gustavoalle.github.io/Calculadora-JavaScript/
