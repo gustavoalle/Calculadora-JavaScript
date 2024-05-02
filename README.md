@@ -1,4 +1,4 @@
-<h1 align="center">Calculadora JS</h1>
+# Calculadora Básica JS
 
 Este README fornece informações sobre o projeto "calculadora Básica JS", que foi criado colocando em prática estudos de manipulação do DOM.
 
